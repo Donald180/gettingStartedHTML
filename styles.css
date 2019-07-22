@@ -29,5 +29,17 @@ table{
 }
 
 form{
-    color:orange;
+    color:black;
+}
+
+div{
+    background-color:red;
+}
+
+#blockOne{
+    background-color: yellow;
+}
+
+.dablock{
+    background-color: gray;
 }
