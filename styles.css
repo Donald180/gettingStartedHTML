@@ -10,12 +10,6 @@ h2{
     color:white;
 }
 
-p{
-    text-align: center;
-    color:red;
-    text-decoration:line-through;
-}
-
 ul{
     color:brown;
 }
@@ -43,3 +37,54 @@ div{
 .dablock{
     background-color: gray;
 }
+
+#static{
+position:static;
+color:darkblue;
+background-color:red;
+}
+#relative{
+position:relative;
+color:greenyellow;
+left:30px;
+border:3px solid #73AD21;
+background-color:orange;
+}
+
+#fixed{
+position:fixed;
+color:yellow;
+bottom:0;
+right:0;
+width:300px;
+border: blue;
+background-color:blueviolet;
+}
+
+#absolute{
+position:absolute;
+color: palevioletred;
+top:80px;
+right:0;
+width:200px;
+height:100px;
+border:red;
+ background-color:lightseagreen;
+}
+
+#sticky{
+position:sticky;
+color: gold;
+top:0;
+background:green;
+border:2px soild #73AD21;
+background-color:lightslategray;
+}
+
+
+
+
+
+
+
+
