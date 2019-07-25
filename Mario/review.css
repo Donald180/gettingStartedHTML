@@ -1,8 +1,47 @@
 body{
     background-color: blue;
-
+    border-style:solid;
 }
 
 img{
-    width: 300px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+h1{
+    margin-left:200px;
+    margin-right:200px;
+
+}
+
+h2{
+    margin:25;
+
+}
+
+h3{
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-right:25px;
+    margin-left:25px;
+}
+
+p{
+    border-style:dotted;
+    border-color:red;
+    border-radius:4px;
+    padding:30px;
+}
+
+#static{
+    border-style:dotted;
+    border-color:red;
+    border-radius: 4px;
+    padding: 30px;
+}
+
+
+
+
