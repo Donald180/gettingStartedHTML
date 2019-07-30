@@ -28,14 +28,20 @@ form{
 
 div{
     background-color:red;
+    font-family: 'Indie Flower', cursive;
+
 }
 
 #blockOne{
     background-color: yellow;
+    font-family: 'Indie Flower', cursive;
+
 }
 
 .dablock{
     background-color: gray;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 #static{
